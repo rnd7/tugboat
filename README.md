@@ -54,7 +54,6 @@ $name
 ```
 
 One level up. Select parent element.
-Select parent:
 ```
 ..
 ```
@@ -67,7 +66,7 @@ array
 =/type/
 ="sometype"
 ..
-value'
+value
 ```
 
 ## License
