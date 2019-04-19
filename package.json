@@ -1,0 +1,14 @@
+{
+  "name": "tugboat",
+  "version": "0.1.0",
+  "description": "JSON Query Language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rnd7",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
